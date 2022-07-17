@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/eida-energy-app/static/css/main.cbc2d5ab.css",
-    "main.js": "/eida-energy-app/static/js/main.3966fc8b.js",
+    "main.js": "/eida-energy-app/static/js/main.dd87e9cf.js",
     "static/js/787.4e66788c.chunk.js": "/eida-energy-app/static/js/787.4e66788c.chunk.js",
     "index.html": "/eida-energy-app/index.html",
     "main.cbc2d5ab.css.map": "/eida-energy-app/static/css/main.cbc2d5ab.css.map",
-    "main.3966fc8b.js.map": "/eida-energy-app/static/js/main.3966fc8b.js.map",
+    "main.dd87e9cf.js.map": "/eida-energy-app/static/js/main.dd87e9cf.js.map",
     "787.4e66788c.chunk.js.map": "/eida-energy-app/static/js/787.4e66788c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cbc2d5ab.css",
-    "static/js/main.3966fc8b.js"
+    "static/js/main.dd87e9cf.js"
   ]
 }
