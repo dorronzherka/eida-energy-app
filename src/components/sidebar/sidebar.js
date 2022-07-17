@@ -21,17 +21,17 @@ function ContainerOutsideExample() {
       <Row>
         <Col>
         <ul className='menu'>
-          <li className={splitLocation[1] === "" ? "active" : ""}>
-            <Link to='/'>Home</Link>
+          <li className={splitLocation[2] === "" ? "active" : ""}>
+            <Link to='/eida-energy-app/'>Home</Link>
           </li>
-          <li className={splitLocation[1] === "consumption" ? "active" : ""} >
-            <Link to='/consumption'>Total consumption today</Link>
+          <li className={splitLocation[2] === "consumption" ? "active" : ""} >
+            <Link to='/eida-energy-app/consumption'>Total consumption today</Link>
           </li>
-          <li className={splitLocation[1] === "energy-sold" ? "active" : ""} >
-            <Link to='/energy-sold'>Total energy sold</Link>
+          <li className={splitLocation[2] === "energy-sold" ? "active" : ""} >
+            <Link to='/eida-energy-app/energy-sold'>Total energy sold</Link>
           </li>         
-          <li className={splitLocation[1] === "battery" ? "active" : ""}>
-            <Link to='/battery'>Battery SOC</Link>
+          <li className={splitLocation[2] === "battery" ? "active" : ""}>
+            <Link to='/eida-energy-app/battery'>Battery SOC</Link>
           </li>
         </ul>
         </Col>
