@@ -76,10 +76,10 @@ function App() {
         display: isSidebarActive == true ? 'none' : 'block' 
       }}>
       <Routes>
-        <Route exact path="/" element={ <ElemCntx.Provider value={elem}> <Home/></ElemCntx.Provider>}></Route>
-        <Route exact path="/energy-sold" element={<ChargesCntx.Provider value={elemSold}><EnergySold/></ChargesCntx.Provider>}></Route>
-        <Route exact path="/consumption" element={<ChargesCntx.Provider value={elemCharges}><Consumption/></ChargesCntx.Provider>}></Route>
-        <Route exact path="/battery" element={<ElemCntx.Provider value={elem}><Battery/></ElemCntx.Provider>}></Route>
+        <Route exact path="/eida-energy-app/" element={ <ElemCntx.Provider value={elem}> <Home/></ElemCntx.Provider>}></Route>
+        <Route exact path="/eida-energy-app/energy-sold" element={<ChargesCntx.Provider value={elemSold}><EnergySold/></ChargesCntx.Provider>}></Route>
+        <Route exact path="/eida-energy-app/consumption" element={<ChargesCntx.Provider value={elemCharges}><Consumption/></ChargesCntx.Provider>}></Route>
+        <Route exact path="/eida-energy-app/battery" element={<ElemCntx.Provider value={elem}><Battery/></ElemCntx.Provider>}></Route>
       </Routes>
       </Container>
       

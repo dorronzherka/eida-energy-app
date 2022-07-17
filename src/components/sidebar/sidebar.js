@@ -15,7 +15,7 @@ function ContainerOutsideExample() {
        <Container>
       <Row>
         <Col>
-        <img src="./Eida-logo-green-ny.png" alt="image" id="logo" />
+        <img src={`${process.env['PUBLIC_URL']}/Eida-logo-green-ny.png`} alt="image" id="logo" />
         </Col>
       </Row>
       <Row>
