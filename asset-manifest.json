@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.cbc2d5ab.css",
-    "main.js": "/static/js/main.197f1370.js",
-    "static/js/787.4e66788c.chunk.js": "/static/js/787.4e66788c.chunk.js",
-    "index.html": "/index.html",
-    "main.cbc2d5ab.css.map": "/static/css/main.cbc2d5ab.css.map",
-    "main.197f1370.js.map": "/static/js/main.197f1370.js.map",
-    "787.4e66788c.chunk.js.map": "/static/js/787.4e66788c.chunk.js.map"
+    "main.css": "/eida-energy-app/build/index.html/static/css/main.cbc2d5ab.css",
+    "main.js": "/eida-energy-app/build/index.html/static/js/main.4d2994fc.js",
+    "static/js/787.4e66788c.chunk.js": "/eida-energy-app/build/index.html/static/js/787.4e66788c.chunk.js",
+    "index.html": "/eida-energy-app/build/index.html/index.html",
+    "main.cbc2d5ab.css.map": "/eida-energy-app/build/index.html/static/css/main.cbc2d5ab.css.map",
+    "main.4d2994fc.js.map": "/eida-energy-app/build/index.html/static/js/main.4d2994fc.js.map",
+    "787.4e66788c.chunk.js.map": "/eida-energy-app/build/index.html/static/js/787.4e66788c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cbc2d5ab.css",
-    "static/js/main.197f1370.js"
+    "static/js/main.4d2994fc.js"
   ]
 }
